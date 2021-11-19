@@ -1,0 +1,54 @@
+body{
+	font-size: 18px;
+	min-height: 2000px;
+}
+
+.navbar{
+	z-index: 1;
+}
+.navbar-brand{
+	font-family: 'Noto Serif Display', serif;
+	font-size: 30px;
+	color: #2F4F4F;
+	
+}
+
+.navbar-brand,navbar-item{
+	color: #2F4F4F !important;
+}
+
+.banner {
+	background-image: url(profil.jpeg);
+	background-size: cover;
+	padding-top: 20%;
+	padding-bottom: 10%;
+	font-size: 30px;
+	color: #2F4F4F;
+
+}
+ .jumbotron button {
+	color: #2F4F4F;
+	border-radius: 5px;
+	border-color: #2F4F4F;
+	padding: 10px;
+ }
+
+ .jumbotron{
+ 	margin-top: -110px;
+ 	height: 670px;
+ }
+
+ .About{
+ 	background-color: #b4b4b4;
+ }
+
+ #Skill{
+ 	background-color: #b4b4b4;
+ }
+
+ #Teacher{
+ 	background-color: #b4b4b4;
+ }
+ #Student{
+ 	background-color: #b4b4b4;
+ }
